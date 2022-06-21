@@ -47,7 +47,7 @@
                 </div>
                 <div class="col l-3">
                     <span class="footer-title">ĐỊA CHỈ CỬA HÀNG</span>
-                    <div class="footer-address">234 Hoàng Quốc Việt, Bắc Từ Liêm, Hà Nội</div>
+                    <div class="footer-address">235 Hoàng Quốc Việt, Bắc Từ Liêm, Hà Nội</div>
                     <div class="footer-address">Đinh Duy Long</div>
                     <div class="footer-address">Nguyễn Minh Nhật</div>
                     <div class="footer-address">Đỗ Minh Hoàn</div>
