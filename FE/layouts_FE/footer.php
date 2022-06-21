@@ -10,7 +10,7 @@
         <div class="grid wide footer-items">
             <div class="row">
                 <div class="col l-3">
-                    <span class="footer-title">LNH-ĐH Điện Lực</span>
+                    <span class="footer-title">LNH-ĐH Điện Lự</span>
                     <div class="footer-gioithieu">
                     </div>
                 </div>
