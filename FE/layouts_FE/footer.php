@@ -16,7 +16,7 @@
                 </div>
                 
                 <div class="col l-3">
-                    <span class="footer-title">SẢN PHẤM GIÁ CAO</span>
+                    <span class="footer-title">SẢN  GIÁ CAO</span>
                     <div class="rate-height">
                     <?php
                     foreach($data as $item) {
